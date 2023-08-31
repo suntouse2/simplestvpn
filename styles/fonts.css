@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Colvetica';
+	src: url('../assets/fonts/coolvetica.otf') format('opentype');
+}
+@font-face {
+	font-family: 'Helvetica';
+	src: url('../assets/fonts/FreeSans.otf') format('opentype');
+}
