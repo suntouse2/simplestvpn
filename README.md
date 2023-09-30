@@ -5,7 +5,7 @@ A simple chromium extension that will allow you to simply connect to your SOX5 p
 ![image](https://github.com/suntouse2/simplestvpn/assets/142033928/22b3a249-fb42-4800-9b10-edf38384ec05)
 
 # Install
-Download the [last version](https://github.com/suntouse2/simplestvpn/releases/tag/release) of VPN. 
+Download the [last version](https://github.com/suntouse2/simplestvpn/releases/tag/release) of extension. 
 Extract downloaded ZIP-archive, open your Chrome Extensions go to the devMode and add extracted folder.
 
 # Configuration
