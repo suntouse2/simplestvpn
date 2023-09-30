@@ -1,5 +1,7 @@
 # SimplestVPN - Chrome Proxy Extension
+
 A simple chromium extension that will allow you to simply connect to your SOX5 proxy server.
+
 ![image](https://github.com/suntouse2/simplestvpn/assets/142033928/22b3a249-fb42-4800-9b10-edf38384ec05)
 
 # Install
